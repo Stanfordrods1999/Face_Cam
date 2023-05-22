@@ -5,7 +5,7 @@
 #ca-certificates==2023.01.10
 #libffi==3.4.4
 #docopt==0.6.2
-fonttools==4.39.4
+#fonttools==4.39.4
 google-auth-oauthlib==1.0.0
 jax==0.4.10
 joblib==1.2.0
