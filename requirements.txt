@@ -25,7 +25,7 @@ setuptools==66.0.0
 sounddevice==0.4.6
 #sqlite==3.41.2
 streamlit==1.22.0
-tensorboard==2.12.3
+tensorboard==2.11.2
 tensorboard-data-server==0.7.0
 tensorflow==2.12.0
 tensorflow-addons==0.20.0
