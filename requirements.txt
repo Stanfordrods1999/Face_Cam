@@ -20,7 +20,7 @@ opencv-contrib-python==4.7.0.72
 pipreqs==0.4.13
 pyparsing==3.0.9
 #python==3.10.11=h966fe2a_2
-scikit-learn==1.2.2
+scikit-learn==1.0.2
 setuptools==66.0.0
 sounddevice==0.4.6
 #sqlite==3.41.2
